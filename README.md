@@ -10,7 +10,8 @@
 
 4. Evaluation Configuration
 
-    Matlab code (revised from _dpfan.net_), follow this [instructions]()
+    Require: Matlab 
+    Just Run main.m
 
 # Citation
 
