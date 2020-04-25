@@ -6,9 +6,11 @@
 
 2. Project Website: http://dpfan.net/Camouflage/
 
-3. Any question please contact to me: _gepengai.ji@gmail.com_ or open new issue in the GitHub)
+3. Code: https://github.com/DengPingFan/SINet
 
-4. Evaluation Configuration
+4. Any question please contact to me: _gepengai.ji@gmail.com_ or open new issue in the GitHub)
+
+5. Evaluation Configuration
 
     Require: Matlab <br>
     Just Run main.m
