@@ -1,0 +1,1 @@
+(Dataset:COD10K; Model:2020-CVPR-SINet) Smeasure:0.960; wFmeasure:0.956;MAE:0.023; adpEm:0.983; meanEm:0.972; maxEm:0.985; adpFm:0.978; meanFm:0.960; maxFm:0.982.
