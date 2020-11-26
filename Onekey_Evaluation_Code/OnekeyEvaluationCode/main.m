@@ -85,7 +85,7 @@ for d = 1:datasetNum
             wFmeasure(i) = original_WFb(sal,logical(gt));
             
             % Using the 2 times of average of sal map as the threshold.
-            threshold = min(2 * mean2(sal), 1); %threshold =  2* mean(sal(:)); -》 threshold = min(2 * mean2(sal), 1); To insure max value is less than 1.
+            threshold = min(2 * mean2(sal), 1); %threshold =  2* mean(sal(:)); -》 threshold = min(2 * mean2(sal), 1); To ensure the max value is less than 1.
             [~,~,adpFmeasure(i)] = Fmeasure_calu(sal,double(gt),size(gt),threshold);
             
             Bi_sal = zeros(size(sal));
