@@ -2,6 +2,9 @@
 
 > Deng-Ping Fan, Ge-Peng Ji, Guolei Sun, Ming-Ming Cheng, Jianbing Shen, Ling Shao.
 
+0. News: 
+[2020/11/26]: Updating one bug in main.m file to insure max value is less than 1. threshold =  2* mean(sal(:)); -》 threshold = min(2 * mean2(sal), 1); 
+
 1. **S**earch and **I**dentification **Net**work (**SINet**)
 
 2. Project Website: http://dpfan.net/Camouflage/
