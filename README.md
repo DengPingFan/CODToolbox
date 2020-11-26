@@ -4,7 +4,7 @@
 
 
 ### 0. :fire: NEWS :fire:
-- [2020/11/26] :boom: Updating one bug in main.m file to insure max value is less than 1. 
+- [2020/11/26] :boom: Updating one bug in main.m file to ensure the max value is less than 1. 
 threshold =  2* mean(sal(:)); -》 threshold = min(2 * mean2(sal), 1); 
 
 1. **S**earch and **I**dentification **Net**work (**SINet**)
